@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="chipView">
+        <attr name="text" format="string" localization="suggested" />
+        <attr name="deletable" format="boolean" />
+    </declare-styleable>
+</resources>
